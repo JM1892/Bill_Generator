@@ -8,10 +8,10 @@ Currently, two official plugins are available:
 
 
   
-![Screenshot (439)](https://github.com/user-attachments/assets/aa181378-db73-41b8-b810-d528112d5de4)
+![Screenshot (439)](https://github.com/user-attachments/assets/180a0e1c-1270-4da8-9717-0ef778a22d62)
 
 
-![Screenshot (441)](https://github.com/user-attachments/assets/be552f11-6cf1-42df-b260-a6314b8cf13a)
+![Screenshot (440)](https://github.com/user-attachments/assets/02fa068e-7015-4b53-a072-4121290f7a5b)
 
 
-![Screenshot (443)](https://github.com/user-attachments/assets/6e17cd39-bb1a-45cb-9f64-3a58fde02fef)
+![Screenshot (442)](https://github.com/user-attachments/assets/5e1e4600-ed9b-485c-92ca-23b1768702f5)
